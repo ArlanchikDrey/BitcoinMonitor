@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="err">Wiederholen</string>
+    <string name="item6">Über</string>
+    <string name="item7">Ausgang</string>
+    <string name="h1">1E</string>
+    <string name="m1">1M</string>
+    <string name="d1">1T</string>
+    <string name="q1">1V</string>
+    <string name="y1">1J</string>
+    <string name="t2">Marktkapitalisierung:</string>
+    <string name="error_msg">Netzwerkfehler!</string>
+    <string name="error_msg2">So verwenden Sie unsere Anwendung Schalten Sie das Internet ein!</string>
+    <string name="t4">Maximale:</string>
+    <string name="t3">Gesamtangebot:</string>
+    <string name="t1">Volumen (24 Std):</string>
+</resources>
